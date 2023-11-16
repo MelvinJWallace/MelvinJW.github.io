@@ -1,6 +1,6 @@
-# Portfolio Website
+PORTFOLIO WEBSITE
 
-## Welcome
+Welcome!
 
 Hello, my name is Melvin Wallace and I would like to introduce you to my personal portfolio website.
 Here, you will find some of my favorite projects that I have completed in the past with many future projects to follow in the near future.
