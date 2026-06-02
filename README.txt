@@ -1,77 +1,63 @@
-# 🌐 **Portfolio Website**
+🌐 Portfolio Website
+Welcome to my personal portfolio website!
+This site serves as a central hub for showcasing the projects, skills, and analytical work I’ve developed across Python, SQL, and Power BI.
 
-## 👋 **Welcome**
+👋 About Me
+Hello, my name is Melvin Wallace, and this portfolio represents my journey in data analytics and problem‑solving.
+Here, you’ll find a curated selection of projects that highlight my ability to:
 
-Hello, my name is **Melvin Wallace**, and welcome to my personal portfolio website.
+Clean, transform, and analyze real‑world datasets
 
-Here, you will find a curated selection of my favorite projects that I have completed, with many more to come in the near future. This site serves as a central hub for showcasing my work, growth, and technical capabilities as I continue developing my skills in data analytics and related fields.
+Build insights using Python, SQL Server, and Power BI
 
-I have a collection of projects completed in **Python**, **SQL**, and **Power BI**, each designed to highlight and demonstrate my understanding of data analysis, problem‑solving, and insight generation. My goal is to extract meaningful, actionable insights from data using a variety of analytical tools and techniques.
+Create visualizations that communicate clear, actionable findings
 
----
+Apply structured analytical thinking to uncover patterns and trends
 
-# 📁 **About This Portfolio**
+This website is a growing collection of my work, and I will continue adding new projects as I expand my skills and explore new tools and techniques.
 
-This website was built to:
+📁 What You’ll Find Here
+My portfolio includes projects across several domains, including:
 
-- Present my analytics work in a clean, organized format  
-- Demonstrate my technical and analytical skillset  
-- Provide real examples of my ability to work with data  
-- Serve as a growing collection of projects as I continue learning  
+Sales & Business Analytics
 
-Each project reflects a different aspect of my capabilities, including:
+Crime & Public Safety Data
 
-- Data cleaning and transformation  
-- Exploratory data analysis (EDA)  
-- Visualization and storytelling  
-- SQL querying and database analysis  
-- Dashboard creation and reporting  
+Healthcare Analytics
 
----
+Education & Student Performance
 
-# 🛠️ **Tools & Technologies**
+Historical & Social Data Analysis
 
-### **Languages**
-- Python  
-- SQL (T‑SQL, MSSQL Server)
+Cybersecurity‑related log analytics (via homelab work)
 
-### **Libraries**
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+Each project demonstrates a different aspect of my analytical skillset—from data cleaning and transformation to visualization and storytelling.
 
-### **Tools**
-- Jupyter Notebook  
-- SQL Server Management Studio  
-- Power BI  
-- Git & GitHub  
+🛠️ Tools & Technologies Featured
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
----
+SQL Server / T‑SQL
 
-# 🚀 **What You Can Expect**
+Power BI
 
-This portfolio includes projects across several domains, such as:
+Jupyter Notebook
 
-- Sales & business analytics  
-- Crime & public safety data  
-- Healthcare analytics  
-- Education & student performance  
-- Historical & social datasets  
-- Cybersecurity‑related log analysis (via homelab work)  
+Git & GitHub
 
-More projects will be added as I continue expanding my knowledge and exploring new tools, datasets, and analytical techniques.
+🚀 Purpose of This Website
+This portfolio website was created to:
 
----
+Showcase my technical abilities
 
-# 📬 **Contact**
+Demonstrate real‑world problem‑solving
 
-If you’d like to connect, collaborate, or discuss data analytics:
+Provide a clean, organized space for my projects
 
-**📧 Email:** melvinjasonwallace@gmail.com  
-**📍 Location:** Naperville, IL  
-**💼 LinkedIn:** *(Add your link here)*  
-**🌐 Portfolio Website:** *(Optional)*  
+Serve as a living document of my growth as a data professional
 
----
+Whether you're a recruiter, hiring manager, or fellow analyst, I hope this site gives you a clear view of my capabilities and passion for data.
 
+📬 Contact
+If you’d like to connect, collaborate, or learn more about my work:
+
+Email: melvinjasonwallace@gmail.com
